@@ -1,0 +1,8 @@
+1. Gracz: rafal --- Wygrana: 999$ --- Data: 2023-06-06 20:04:59
+2. Gracz: robertlewandowski --- Wygrana: 993$ --- Data: 2023-06-06 20:23:34
+3. Gracz: popek --- Wygrana: 977$ --- Data: 2023-06-06 20:46:23
+4. Gracz: starygracz --- Wygrana: 944$ --- Data: 2023-06-06 20:23:01
+5. Gracz: gracz --- Wygrana: 877$ --- Data: 2023-06-06 20:11:24
+6. Gracz: popek --- Wygrana: 877$ --- Data: 2023-06-06 20:11:36
+7. Gracz: NOWYGRACZ --- Wygrana: 400$ --- Data: 2023-06-06 20:11:53
+8. Gracz: pop --- Wygrana: 0$ --- Data: 2023-06-06 20:37:17
